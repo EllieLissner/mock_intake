@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Figtree-Light";
-  src: url('/Users/elizabethlissner/projects/lseg-mock/lseg-mock/src/assets/static/Figtree-Light.ttf');
+  src: url('./assets/static/Figtree-Light.ttf');
   
 }
 
